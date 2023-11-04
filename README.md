@@ -35,7 +35,7 @@ Visit [http://localhost:3000](http://localhost:3000) to access Game Hub locally.
 
 ![Game Hub Screenshot](public/screenshot.png)
 
-Here's a screenshot of the Game Hub in action. You can explore games, join discussions, and discover new titles.
+Here's a screenshot of the Game Hub in action. You can explore games, and discover new titles.
 
 ## Code Structure
 
