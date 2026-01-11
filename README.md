@@ -50,4 +50,4 @@ We use external APIs for game data. You can access these APIs by visiting [API D
 
 ## Deployment
 
-Game Hub is deployed on [game-hub-ezzelddin-abdallahs-projects.vercel.app](https://game-hub-ezzelddin-abdallahs-projects.vercel.app). We used Vercel for seamless deployment.
+Game Hub is deployed on [game-hub-ezz.vercel.app](https://game-hub-ezz.vercel.app). We used Vercel for seamless deployment.
